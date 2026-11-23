@@ -16,14 +16,5 @@
     "description": "Dicas práticas para organizar sua rotina de estudos, manter o foco e equilibrar descanso e lazer.",
     "cover": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80",
     "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
-  },
-  {
-    "id": "pod-4",
-    "title": "Cultura, Arte e Expressão Juvenil",
-    "author": "Estúdio Aberto • Ep. 04",
-    "category": "Cultura",
-    "description": "Um bate-papo descontraído sobre música independente, teatro estudantil e produção audiovisual.",
-    "cover": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=600&q=80",
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
   }
 ]
